@@ -29,7 +29,7 @@ cloudpickle==1.2.2
 colorama==0.4.1
 colorlover==0.3.0
 contextlib2==0.6.0
-cryptography==2.7
+cryptography==3.2
 cufflinks==0.17.0
 cycler==0.10.0
 Cython==0.29.13
